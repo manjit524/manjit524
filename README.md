@@ -53,9 +53,9 @@ Become a **Software Engineer and Data Science Professional** who builds intellig
 
 ## 📊 GitHub Stats
 
-![Manjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+![Manjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjit524\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjit524\&layout=compact)
 
 ---
 
