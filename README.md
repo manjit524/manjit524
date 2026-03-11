@@ -1,46 +1,71 @@
 # 👋 Hi there, I'm Manjit Pal
 
-## 🚀 About Me
-
-I'm a B.Tech Computer Engineering student working toward becoming a **Software Engineer**.  
-I’m passionate about web development and currently exploring cross-platform app development with Flutter.  
-I enjoy solving real-world problems with clean, efficient code.
-
-- 🌱 I’m currently learning: **Flutter**, **Full Stack Development**
-- 🎯 Goal: Become a professional **Software Engineer**
-- 💼 Focused on: Building scalable and modern web applications
-- 💬 Ask me about: **Web Development**, **Java**
-- 📫 Reach me at: [manjitpal524@gmail.com](mailto:manjitpal524@gmail.com)
-- ⚡ Fun fact: I love turning ideas into interactive digital experiences.
-
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Manjit524's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjit524&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjit524&layout=compact&theme=radical)
+🎓 **B.Tech Computer Engineering Student at Indus University**
 
 ---
 
-Thanks for visiting my profile! 😊
-- 👋 Hi, I’m @manjit524
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
 
-<!---
-manjit524/manjit524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Computer Engineering student** interested in **Software Development, Data Science, and Machine Learning**.
+I have gained practical experience through internships in:
+
+* 🌐 **Web Development**
+* 🤖 **IoT with Embedded AI**
+* 📊 **Data Science**
+
+I enjoy learning new technologies and building solutions that solve real-world problems.
+
+---
+
+## 🌱 Currently Learning
+
+* 📊 Data Science
+* 🤖 Machine Learning
+---
+
+## 🎯 Career Goal
+
+Become a **Software Engineer and Data Science Professional** who builds intelligent and scalable systems.
+
+---
+
+## 💬 Ask Me About
+
+* Python
+* C / C++
+* Machine Learning
+* Web Development
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Manjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [manjitpal524@gmail.com](mailto:manjitpal524@gmail.com)
+💼 **LinkedIn:** www.linkedin.com/in/manjit-pal-3b8b10307
+
+
+
+---
+
+⭐ *Always learning, always improving.*
