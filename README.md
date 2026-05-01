@@ -1,7 +1,9 @@
 👋 Hi there, I'm Manjit Pal
+
 I am a final-year Computer Engineering student at Indus University. I specialize in bridging the gap between traditional software development and intelligent, data-driven systems. My goal is to build scalable AI solutions that solve real-world problems.
 
 🚀 About Me
+
 I am a software builder who thrives on the intersection of hardware, software, and intelligence. Over the course of my degree and various internships, I have developed a versatile toolkit across several domains:
 
 Data Science: Focused on turning raw datasets into actionable insights using predictive modeling.
@@ -11,7 +13,9 @@ IoT & Embedded AI: Experience in deploying intelligence at the hardware level, s
 Full-Stack Development: Designing secure, database-driven applications and dynamic web platforms.
 
 🛠️ Technical Toolkit
+
 ⚡ Languages
+
 Python: Primary language for Data Science, ML, and Backend development.
 
 SQL: Expert in database design and management using MySQL.
@@ -62,6 +66,7 @@ Dynamic Portfolio Builder: Created a web-based resume maker utilizing HTML, CSS,
 Real-time Recognition: Built a live Rock Paper Scissors classification system using custom CNN models and OpenCV.
 
 🎯 Current Focus
+
 🔭 Looking for: Final-year internship opportunities in Data Science, Machine Learning, or AI Engineering.
 
 🌱 Learning: Currently deepening my knowledge in advanced deep learning architectures and time-series forecasting.
