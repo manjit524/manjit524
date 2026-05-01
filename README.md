@@ -13,25 +13,41 @@ Full-Stack Development: Designing secure, database-driven applications and dynam
 🛠️ Technical Toolkit
 ⚡ Languages
 Python: Primary language for Data Science, ML, and Backend development.
+
 SQL: Expert in database design and management using MySQL.
+
 Java: Experienced in Object-Oriented Programming (OOP).
+
 PHP: Used for building web-based applications and e-commerce platforms.
+
 C / C++: Applied for Data Structures, Algorithms, and Embedded Systems.
+
 JavaScript: Used for creating dynamic frontend interactivity.
+
 HTML & CSS: Building responsive web interfaces and portfolio layouts.
 
 🧠 AI & Frameworks
+
 Machine Learning: Scikit-learn for regression and classification tasks.
+
 Deep Learning: TensorFlow and Keras for training CNN models.
+
 Computer Vision: OpenCV for real-time image recognition and classification.
+
 Data Analysis: Pandas and NumPy for preprocessing large datasets.
+
 Web Backend: Flask for deploying machine learning models.
 
 ⚙️ Dev Tools & Hardware
+
 Version Control: Git & GitHub for project collaboration and source control.
+
 Databases: MySQL Workbench for managing relational data.
+
 Hardware: Arduino IDE and ESP32-CAM for IoT and Embedded AI projects.
+
 Environment: Linux (Ubuntu) and VS Code for development.
+
 API Testing: Postman for verifying RESTful services.
 
 📈 Featured Projects
@@ -53,9 +69,11 @@ Real-time Recognition: Built a live Rock Paper Scissors classification system us
 💬 Ask me about: Why I'm passionate about the "Full-Stack" approach to AI—from data ingestion to final deployment.
 
 📊 GitHub Stats
+
 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/manjitpal524
+
 Email: manjitpal524@gmail.com
 
 ⭐ Always building, always learning.
