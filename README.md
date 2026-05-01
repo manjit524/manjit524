@@ -1,71 +1,61 @@
-# 👋 Hi there, I'm Manjit Pal
+👋 Hi there, I'm Manjit Pal
+I am a final-year Computer Engineering student at Indus University. I specialize in bridging the gap between traditional software development and intelligent, data-driven systems. My goal is to build scalable AI solutions that solve real-world problems.
 
-🎓 **B.Tech Computer Engineering Student at Indus University**
+🚀 About Me
+I am a software builder who thrives on the intersection of hardware, software, and intelligence. Over the course of my degree and various internships, I have developed a versatile toolkit across several domains:
 
----
+Data Science: Focused on turning raw datasets into actionable insights using predictive modeling.
 
-## 🚀 About Me
+IoT & Embedded AI: Experience in deploying intelligence at the hardware level, specifically working with microcontrollers like the ESP32.
 
-I'm a passionate **Computer Engineering student** interested in **Software Development, Data Science, and Machine Learning**.
-I have gained practical experience through internships in:
+Full-Stack Development: Designing secure, database-driven applications and dynamic web platforms.
 
-* 🌐 **Web Development**
-* 🤖 **IoT with Embedded AI**
-* 📊 **Data Science**
+🛠️ Technical Toolkit
+⚡ Languages
+Python: Primary language for Data Science, ML, and Backend development.
+SQL: Expert in database design and management using MySQL.
+Java: Experienced in Object-Oriented Programming (OOP).
+PHP: Used for building web-based applications and e-commerce platforms.
+C / C++: Applied for Data Structures, Algorithms, and Embedded Systems.
+JavaScript: Used for creating dynamic frontend interactivity.
+HTML & CSS: Building responsive web interfaces and portfolio layouts.
 
-I enjoy learning new technologies and building solutions that solve real-world problems.
+🧠 AI & Frameworks
+Machine Learning: Scikit-learn for regression and classification tasks.
+Deep Learning: TensorFlow and Keras for training CNN models.
+Computer Vision: OpenCV for real-time image recognition and classification.
+Data Analysis: Pandas and NumPy for preprocessing large datasets.
+Web Backend: Flask for deploying machine learning models.
 
----
+⚙️ Dev Tools & Hardware
+Version Control: Git & GitHub for project collaboration and source control.
+Databases: MySQL Workbench for managing relational data.
+Hardware: Arduino IDE and ESP32-CAM for IoT and Embedded AI projects.
+Environment: Linux (Ubuntu) and VS Code for development.
+API Testing: Postman for verifying RESTful services.
 
-## 🌱 Currently Learning
+📈 Featured Projects
+CNN Image Classification: Developed deep learning models for accurate image recognition and classification.
 
-* 📊 Data Science
-* 🤖 Machine Learning
----
+Secure Banking Systems: Built a comprehensive banking application using Python and MySQL, focusing on secure data management.
 
-## 🎯 Career Goal
+Predictive Analysis: Implemented various machine learning models, including used car price prediction and email spam detection.
 
-Become a **Software Engineer and Data Science Professional** who builds intelligent and scalable systems.
+Dynamic Portfolio Builder: Created a web-based resume maker utilizing HTML, CSS, and JavaScript.
 
----
+Real-time Recognition: Built a live Rock Paper Scissors classification system using custom CNN models and OpenCV.
 
-## 💬 Ask Me About
+🎯 Current Focus
+🔭 Looking for: Final-year internship opportunities in Data Science, Machine Learning, or AI Engineering.
 
-* Python
-* C / C++
-* Machine Learning
-* Web Development
+🌱 Learning: Currently deepening my knowledge in advanced deep learning architectures and time-series forecasting.
 
----
+💬 Ask me about: Why I'm passionate about the "Full-Stack" approach to AI—from data ingestion to final deployment.
 
-## 🛠️ Tech Stack
+📊 GitHub Stats
+📫 Connect With Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+LinkedIn: www.linkedin.com/in/manjitpal524
+Email: manjitpal524@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![Manjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjit524\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjit524\&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [manjitpal524@gmail.com](mailto:manjitpal524@gmail.com)
-💼 **LinkedIn:** www.linkedin.com/in/manjit-pal-3b8b10307
-
-
-
----
-
-⭐ *Always learning, always improving.*
+⭐ Always building, always learning.
