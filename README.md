@@ -1,84 +1,115 @@
-👋 Hi there, I'm Manjit Pal
+# Manjit Pal
+### Aspiring Software Engineer | AI/ML
 
-I am a final-year Computer Engineering student at Indus University. I specialize in bridging the gap between traditional software development and intelligent, data-driven systems. My goal is to build scalable AI solutions that solve real-world problems.
+Computer Engineering undergraduate at Indus University with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, and Database Management. Experienced in applying programming, deep learning, and web development concepts through internships and hands-on projects. Passionate about building scalable, intelligent applications that solve real-world problems.
 
-🚀 About Me
+## About Me
 
-I am a software builder who thrives on the intersection of hardware, software, and intelligence. Over the course of my degree and various internships, I have developed a versatile toolkit across several domains:
+I am an aspiring Software Engineer interested in developing intelligent software systems that combine AI/ML techniques with practical software engineering. Through my internships and academic projects, I have gained experience in data analysis, machine learning, deep learning, embedded systems, and web application development.
 
-Data Science: Focused on turning raw datasets into actionable insights using predictive modeling.
+My focus is on strengthening my technical skills, exploring emerging technologies, and building practical solutions that address real-world challenges.
 
-IoT & Embedded AI: Experience in deploying intelligence at the hardware level, specifically working with microcontrollers like the ESP32.
+- **Education:** B.Tech in Computer Engineering, Indus University
+- **Specialization:** Artificial Intelligence and Machine Learning
+- **Interests:** Deep Learning, Computer Vision, Full-Stack Development, and Database Management
+- **Current Project:** StockSense — AI-Powered Stock Advisor
+- **Career Goal:** To develop scalable and intelligent software applications.
 
-Full-Stack Development: Designing secure, database-driven applications and dynamic web platforms.
+## Technical Skills
 
-🛠️ Technical Toolkit
+**Programming Languages**
+- Python, Java, JavaScript, C, C++, C#
 
-⚡ Languages
+**AI and Machine Learning**
+- Machine Learning
+- Deep Learning
+- Convolutional Neural Networks (CNN)
+- TensorFlow
+- Scikit-learn
 
-Python: Primary language for Data Science, ML, and Backend development.
+**Web Development**
+- HTML5, CSS3, Tailwind CSS
+- Frontend and Backend Development
 
-SQL: Expert in database design and management using MySQL.
+**Database Management**
+- SQL
+- MySQL
+- Database Design and Management
 
-Java: Experienced in Object-Oriented Programming (OOP).
+**Tools and Technologies**
+- Git and GitHub
+- Visual Studio Code
+- Jupyter Notebook
 
-PHP: Used for building web-based applications and e-commerce platforms.
+**Core Computer Science**
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks
 
-C / C++: Applied for Data Structures, Algorithms, and Embedded Systems.
+## Internship Experience
 
-JavaScript: Used for creating dynamic frontend interactivity.
+### Data Science Intern — Skytech IT Center
+*December 2025 – May 2026 | Ahmedabad, Gujarat*
 
-HTML & CSS: Building responsive web interfaces and portfolio layouts.
+- Worked on data analysis and data preprocessing using Python.
+- Applied machine learning techniques to data-driven problems.
 
-🧠 AI & Frameworks
+### Embedded Systems with IoT and AI — Indus University
+*June 2025 – July 2025 | Ahmedabad, Gujarat*
 
-Machine Learning: Scikit-learn for regression and classification tasks.
+- Built IoT-based solutions incorporating Embedded AI concepts and smart devices.
+- Explored the integration of hardware, software, and intelligent systems.
 
-Deep Learning: TensorFlow and Keras for training CNN models.
+### Web Development Intern — Acmegrade
+*June 2024 – July 2024 | Remote*
 
-Computer Vision: OpenCV for real-time image recognition and classification.
+- Developed responsive web applications.
+- Strengthened frontend and backend development skills through practical implementation.
 
-Data Analysis: Pandas and NumPy for preprocessing large datasets.
+## Featured Projects
 
-Web Backend: Flask for deploying machine learning models.
+### 1. StockSense: AI-Powered Stock Advisor
+Engineered a GRU-based deep learning system for real-time stock-price forecasting and trade signals.
 
-⚙️ Dev Tools & Hardware
+**Technologies:** Python, Deep Learning, GRU
 
-Version Control: Git & GitHub for project collaboration and source control.
+### 2. Footwear Classification and Visual Search Using Deep Learning
+Built a CNN model to classify footwear categories and match silhouettes across e-commerce portals.
 
-Databases: MySQL Workbench for managing relational data.
+**Technologies:** Python, CNN, Deep Learning, Computer Vision
 
-Hardware: Arduino IDE and ESP32-CAM for IoT and Embedded AI projects.
+### 3. Online Banking Website
+Developed a secure banking application featuring user authentication and transaction management.
 
-Environment: Linux (Ubuntu) and VS Code for development.
+**Technologies:** Web Development, Database Management
 
-API Testing: Postman for verifying RESTful services.
+### 4. E-Commerce Platform
+Created a responsive e-commerce platform with product management, shopping cart, and order management functionality.
 
-📈 Featured Projects
-CNN Image Classification: Developed deep learning models for accurate image recognition and classification.
+**Technologies:** HTML, CSS, JavaScript, Database Management
 
-Secure Banking Systems: Built a comprehensive banking application using Python and MySQL, focusing on secure data management.
+## Certifications
 
-Predictive Analysis: Implemented various machine learning models, including used car price prediction and email spam detection.
+- Data Science Internship
+- Web Development Internship (Remote)
+- IoT and Embedded AI Internship
 
-Dynamic Portfolio Builder: Created a web-based resume maker utilizing HTML, CSS, and JavaScript.
+## Current Focus
 
-Real-time Recognition: Built a live Rock Paper Scissors classification system using custom CNN models and OpenCV.
+- Advancing my knowledge of Artificial Intelligence and Machine Learning.
+- Exploring deep learning architectures and practical AI applications.
+- Improving my full-stack development and database management skills.
+- Building projects that combine intelligent models with usable software applications.
+- Seeking opportunities in AI/ML, Data Science, and Software Development.
 
-🎯 Current Focus
+## Connect With Me
 
-🔭 Looking for: Final-year internship opportunities in Data Science, Machine Learning, or AI Engineering.
+- **LinkedIn:** [linkedin.com/in/manjitpal524](https://www.linkedin.com/in/manjitpal524)
+- **Email:** [manjitpal524@gmail.com](mailto:manjitpal524@gmail.com)
+- **GitHub:** [github.com/manjit524](https://github.com/manjit524)
 
-🌱 Learning: Currently deepening my knowledge in advanced deep learning architectures and time-series forecasting.
+---
 
-💬 Ask me about: Why I'm passionate about the "Full-Stack" approach to AI—from data ingestion to final deployment.
-
-📊 GitHub Stats
-
-📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/manjitpal524
-
-Email: manjitpal524@gmail.com
-
-⭐ Always building, always learning.
+*Building intelligent solutions through continuous learning and practical software development.*
